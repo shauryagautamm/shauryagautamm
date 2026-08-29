@@ -32,6 +32,6 @@
 - Data Science
 - Cloud & DevOps
 
-## 📫 Connect With Me
+## 📫 Connect With Me- 
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/shaurya-gautam-bb9537364/))
+[LinkedIn](https://www.linkedin.com/in/shaurya-gautam-bb9537364/)
