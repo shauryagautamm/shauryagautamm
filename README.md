@@ -7,7 +7,7 @@
 ## 🚀 Currently Working On
 
 - 📈 Building [**Montenash**](https://github.com/AkshajKhetarpal/montenash), a stock market analysis platform using Monte Carlo simulation and game-theoretic ranking
-- 🛡️ Building [**ReturnGuard**](https://github.com/cvprojectsidandshaurya/returnguard), an AI-driven cybersecurity project
+- 🛡️ Building [**ReturnGuard**](https://github.com/cvprojectsidandshaurya/returnguard), a computer-vision e-commerce returns-verification project
 - 🧠 Exploring Machine Learning and AI
 - 💻 Strengthening my skills in software engineering and backend development
 
